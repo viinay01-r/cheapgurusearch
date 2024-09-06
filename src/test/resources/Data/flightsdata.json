@@ -1,0 +1,16 @@
+[
+    {
+        "departure": "New York",
+        "destination": "London",
+        "starttime": "6 September 2024",
+        "endtime": "8 September 2024",
+        "cabinclass": "Economy"
+    },
+    {
+        "departure": "Miami",
+        "destination": "Paris",
+        "starttime": "12 September 2024",
+        "endtime": "19 September 2024",
+        "cabinclass": "Business"
+    }
+]
